@@ -8,8 +8,9 @@
 
 ## instalação e execução
 
-- no diretório do projeto insira: mvn package
-- para executar, vá para o diretório target e insira:  java -jar gamereviewer-1.0.jar <caminho para arquivo de log>
+- No diretório do projeto insira: mvn package
+- Para executar, vá para o diretório target e insira:  java -jar gamereviewer-1.0.jar <caminho para arquivo de log>
+
 exemplo:  java -jar gamereviewer-1.0.jar test3.log
 
 ## Comentários
